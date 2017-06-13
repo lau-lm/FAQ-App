@@ -1,0 +1,47 @@
+2017-06-13T09:36:24.737439127 0.288608s notice: Recursively removing directory /home/laurence/WCS/Ateliers/FAQ/rethinkdb_data/tmp
+2017-06-13T09:36:24.788968300 0.340137s notice: Initializing directory /home/laurence/WCS/Ateliers/FAQ/rethinkdb_data
+2017-06-13T09:36:24.789061815 0.340230s info: Creating a default database for your convenience. (This is because you ran 'rethinkdb' without 'create', 'serve', or '--join', and the directory '/home/laurence/WCS/Ateliers/FAQ/rethinkdb_data' did not already exist or is empty.)
+2017-06-13T09:36:24.789150284 0.340319s notice: Running rethinkdb 2.3.5~0xenial (GCC 5.3.1)...
+2017-06-13T09:36:24.792574547 0.343745s notice: Running on Linux 4.4.0-79-generic x86_64
+2017-06-13T09:36:24.792621691 0.343790s notice: Loading data from directory /home/laurence/WCS/Ateliers/FAQ/rethinkdb_data
+2017-06-13T09:36:25.062063520 0.613232s info: Automatically using cache size of 1045 MB
+2017-06-13T09:36:25.063177696 0.614346s notice: Listening for intracluster connections on port 29015
+2017-06-13T09:36:25.090534573 0.641704s notice: Listening for client driver connections on port 28015
+2017-06-13T09:36:25.174432727 0.725602s error: Could not bind to http port: The address at localhost:8080 is reserved or already in use.
+2017-06-13T09:36:52.778059460 0.121513s notice: Running rethinkdb 2.3.5~0xenial (GCC 5.3.1)...
+2017-06-13T09:36:52.780750780 0.124206s notice: Running on Linux 4.4.0-79-generic x86_64
+2017-06-13T09:36:52.780796840 0.124250s notice: Loading data from directory /home/laurence/WCS/Ateliers/FAQ/rethinkdb_data
+2017-06-13T09:36:52.859107383 0.202560s info: Automatically using cache size of 1190 MB
+2017-06-13T09:36:52.859586748 0.203040s notice: Listening for intracluster connections on port 29015
+2017-06-13T09:36:52.860482326 0.203935s notice: Listening for client driver connections on port 28015
+2017-06-13T09:36:52.860602764 0.204056s notice: Listening for administrative HTTP connections on port 8080
+2017-06-13T09:36:52.860603539 0.204056s notice: Listening on cluster addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-06-13T09:36:52.860604818 0.204058s notice: Listening on driver addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-06-13T09:36:52.860607901 0.204061s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-06-13T09:36:52.860610548 0.204063s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-06-13T09:36:52.860613753 0.204066s notice: Server ready, "Laurence_aj6" a9384e1f-e853-47dc-91ab-1fcf9b59980b
+2017-06-13T09:37:09.499667009 16.843120s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-06-13T09:37:29.501800288 36.845253s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-06-13T09:37:49.504172120 56.847625s notice: Someone asked for the nonwhitelisted file "/__webpack_hmr".  If this should be accessible, add it to the static web assets.
+2017-06-13T09:37:59.261844780 66.605298s notice: Server got SIGINT from pid 0, uid 0; shutting down...
+2017-06-13T09:37:59.261944653 66.605397s notice: Shutting down client connections...
+2017-06-13T09:37:59.261994829 66.605448s notice: All client connections closed.
+2017-06-13T09:37:59.261997785 66.605450s notice: Shutting down storage engine... (This may take a while if you had a lot of unflushed data in the writeback cache.)
+2017-06-13T09:37:59.262208334 66.605661s notice: Storage engine shut down.
+2017-06-13T09:38:00.859339593 0.196103s notice: Running rethinkdb 2.3.5~0xenial (GCC 5.3.1)...
+2017-06-13T09:38:00.862044408 0.198809s notice: Running on Linux 4.4.0-79-generic x86_64
+2017-06-13T09:38:00.862088331 0.198851s notice: Loading data from directory /home/laurence/WCS/Ateliers/FAQ/rethinkdb_data
+2017-06-13T09:38:00.932099278 0.268863s info: Automatically using cache size of 1010 MB
+2017-06-13T09:38:00.932573999 0.269337s notice: Listening for intracluster connections on port 29015
+2017-06-13T09:38:00.934146596 0.270910s notice: Listening for client driver connections on port 28015
+2017-06-13T09:38:00.934273870 0.271037s notice: Listening for administrative HTTP connections on port 8080
+2017-06-13T09:38:00.934275248 0.271038s notice: Listening on cluster addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-06-13T09:38:00.934276993 0.271040s notice: Listening on driver addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-06-13T09:38:00.934280210 0.271043s notice: Listening on http addresses: 127.0.0.1, 127.0.1.1, ::1
+2017-06-13T09:38:00.934283650 0.271046s notice: To fully expose RethinkDB on the network, bind to all addresses by running rethinkdb with the `--bind all` command line option.
+2017-06-13T09:38:00.934286699 0.271049s notice: Server ready, "Laurence_aj6" a9384e1f-e853-47dc-91ab-1fcf9b59980b
+2017-06-13T09:38:21.224890849 20.561654s info: Table c4ede129-f7c0-4158-8337-ace8d26ddd73: Starting a new Raft election for term 1.
+2017-06-13T09:38:21.232558273 20.569321s info: Table c4ede129-f7c0-4158-8337-ace8d26ddd73: Added replica on this server.
+2017-06-13T09:38:21.332520706 20.669284s info: Table c4ede129-f7c0-4158-8337-ace8d26ddd73: This server is Raft leader for term 1. Latest log index is 0.
+2017-06-13T10:58:04.411425387 4803.748188s info: Table c4ede129-f7c0-4158-8337-ace8d26ddd73: Configuration is changing.
+2017-06-13T12:08:00.824910909 9000.161674s info: Table c4ede129-f7c0-4158-8337-ace8d26ddd73: Configuration is changing.
